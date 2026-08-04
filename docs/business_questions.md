@@ -54,7 +54,7 @@ Order volume showed strong growth over time, suggesting increasing customer dema
 
 **Business Insight**
 
-A high delivery success rate reflects efficient order fulfillment. Monitoring canceled and unavailable orders can help reduce revenue loss and improve customer experience.
+The vast majority of orders were successfully delivered, indicating a high order fulfillment rate. However, canceled and unavailable orders represent potential sources of lost sales and customer dissatisfaction. Monitoring the causes of these orders could help identify opportunities to improve order fulfillment.
 
 ---
 
@@ -67,7 +67,7 @@ A high delivery success rate reflects efficient order fulfillment. Monitoring ca
 
 **Business Insight**
 
-High-demand cities should be prioritized for inventory allocation, warehouse planning, and localized marketing initiatives.
+Order demand is concentrated in a small number of major cities. These high-demand markets could be prioritized for inventory allocation, logistics capacity, and targeted marketing initiatives.
 
 ---
 
@@ -77,12 +77,12 @@ High-demand cities should be prioritized for inventory allocation, warehouse pla
 
 **Observation**
 
-- Revenue peaked in **11/2017** at **R$1,153,528**.
-- Overall revenue showed an **(upward / downward / stable)** trend.
+- Revenue peaked in **11/2017** at **R$1,194,882**.
+- Overall revenue showed an **upward** trend.
 
 **Business Insight**
 
-Revenue trends provide a clear view of business performance and can be used to evaluate seasonal demand and promotional effectiveness.
+Revenue increased over the observed period, indicating overall business growth. Monthly revenue trends can also help identify periods of high demand and support sales planning and resource allocation.
 
 ---
 
@@ -90,11 +90,11 @@ Revenue trends provide a clear view of business performance and can be used to e
 
 **Observation**
 
-- The average order value (AOV) was **R$______**.
+- The average order value (AOV) was **R$161**.
 
 **Business Insight**
 
-Increasing AOV through product bundles, cross-selling, or upselling can improve revenue without increasing the number of orders.
+The AOV provides a baseline for monitoring customer spending per order. Increasing AOV through strategies such as product bundling, cross-selling, or upselling could help increase revenue without relying solely on higher order volume.
 
 ---
 
@@ -102,12 +102,12 @@ Increasing AOV through product bundles, cross-selling, or upselling can improve 
 
 **Observation**
 
-- **______** generated the highest revenue (**R$______**).
-- The top **_____** categories contributed **______%** of total revenue.
+- **cama mesa banho** generated the highest revenue (**R$498,440**).
+- The top **5** categories contributed **37.87%** of total revenue.
 
 **Business Insight**
 
-High-revenue product categories should receive greater attention in inventory planning, supplier management, and promotional campaigns.
+Revenue is relatively concentrated among the top-performing product categories. These categories could be prioritized for inventory availability, supplier management, and targeted marketing to maintain their contribution to overall revenue.
 
 ---
 
@@ -117,12 +117,12 @@ High-revenue product categories should receive greater attention in inventory pl
 
 **Observation**
 
-- **_____**-star reviews accounted for **______%** of all reviews.
-- The average review score was **______**.
+- **5**-star reviews accounted for **57.78%** of all reviews.
+- The average review score was **4.09**.
 
 **Business Insight**
 
-Customer reviews are concentrated in higher ratings, indicating generally positive customer satisfaction. Lower ratings should be further investigated.
+Overall customer satisfaction was relatively high, with the majority of customers giving positive ratings. However, the presence of lower-rated reviews suggests that a portion of customers experienced unsatisfactory service and should be investigated to identify potential issues related to delivery, product quality, or order fulfillment.
 
 ---
 
@@ -130,12 +130,12 @@ Customer reviews are concentrated in higher ratings, indicating generally positi
 
 **Observation**
 
-- Orders delivered within **______** days received an average rating of **______**.
-- Orders delivered after **______** days received an average rating of **______**.
+- Orders delivered within the first **5** days received an average rating of **4.43**.
+- Orders delivered after **20** days received an average rating of **3.12**.
 
 **Business Insight**
 
-Longer delivery times are associated with lower customer ratings, highlighting the importance of efficient logistics operations.
+Longer delivery times are associated with lower customer ratings, highlighting the importance of reliable and efficient delivery operations.
 
 ---
 
@@ -143,12 +143,12 @@ Longer delivery times are associated with lower customer ratings, highlighting t
 
 **Observation**
 
-- Highest-rated category: **______** (**______** stars).
-- Lowest-rated category: **______** (**______** stars).
+- Highest-rated category: **cds dvds musicais** (**4.64** stars).
+- Lowest-rated category: **seguros e servicos** (**2.5** stars).
 
 **Business Insight**
 
-Product categories with consistently lower ratings should be reviewed to identify potential issues related to product quality or customer experience.
+Significant differences in average ratings across product categories suggest that customer satisfaction varies by category. Low-rated categories should be further investigated to identify potential issues related to product quality, service, or fulfillment.
 
 ---
 
@@ -158,11 +158,11 @@ Product categories with consistently lower ratings should be reviewed to identif
 
 **Observation**
 
-- The average delivery time was **______** days.
+- The average delivery time was **12** days.
 
 **Business Insight**
 
-Average delivery time is a key logistics KPI. Improving delivery speed can enhance customer satisfaction and increase positive reviews.
+Delivery time is an important logistics KPI for monitoring fulfillment performance. Reducing delivery time while maintaining reliable fulfillment could contribute to a better customer experience.
 
 ---
 
@@ -170,13 +170,13 @@ Average delivery time is a key logistics KPI. Improving delivery speed can enhan
 
 **Observation**
 
-- Delivered orders: **______**
-- Late deliveries: **______**
-- Late delivery rate: **______%**
+- Delivered orders: **96,5k**
+- Late deliveries: **7.83k**
+- Late delivery rate: **8.11%**
 
 **Business Insight**
 
-Monitoring late deliveries helps evaluate logistics reliability and identify opportunities to improve on-time delivery performance.
+Approximately 1 in 12 delivered orders arrived later than the estimated delivery date. Monitoring late deliveries can help identify logistics bottlenecks and improve on-time delivery performance.
 
 ---
 
@@ -184,12 +184,12 @@ Monitoring late deliveries helps evaluate logistics reliability and identify opp
 
 **Observation**
 
-- Longest average delivery time: **______** (**______** days).
-- Shortest average delivery time: **______** (**______** days).
+- Longest average delivery time: **Roraima(RR)** (**29** days).
+- Shortest average delivery time: **Paraíba(PB)** (**20** days).
 
 **Business Insight**
 
-Delivery performance varies across states, suggesting opportunities to optimize logistics operations in regions with longer delivery times.
+Delivery times vary across states, with northern regions such as Roraima experiencing longer average delivery times. Regional differences may indicate opportunities to investigate logistics capacity, transportation routes, and fulfillment performance.
 
 ---
 
@@ -199,12 +199,12 @@ Delivery performance varies across states, suggesting opportunities to optimize 
 
 **Observation**
 
-- **______** was the most frequently used payment method, accounting for **______%** of all transactions.
-- **______** was the least frequently used payment method.
+- **credit card** was the most frequently used payment method, accounting for **75.24%** of all transactions.
+- **debit card** was the least frequently used payment method.
 
 **Business Insight**
 
-Understanding customer payment preferences helps businesses prioritize payment optimization and improve the checkout experience.
+Credit card is the dominant payment method in the dataset. Understanding payment preferences can help maintain a smooth checkout experience and ensure adequate support for commonly used payment methods.
 
 ---
 
@@ -212,9 +212,9 @@ Understanding customer payment preferences helps businesses prioritize payment o
 
 **Observation**
 
-- **______** had the highest average payment value (**R$______**).
-- **______** had the lowest average payment value (**R$______**).
+- **credit card** had the highest average payment value (**R$163.32**).
+- **debit card** had the lowest average payment value (**R$65.7**).
 
 **Business Insight**
 
-Differences in average payment values across payment methods may reflect varying customer purchasing behaviors and can support payment-related marketing strategies.
+Average payment value varies considerably across payment methods, suggesting differences in purchasing patterns among customers using different payment methods. These differences can help inform payment and customer segmentation strategies.
