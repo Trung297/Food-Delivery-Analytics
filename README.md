@@ -49,10 +49,9 @@ Food-Delivery-Analytics/
 |   └── data_validation.md
 |
 ├── images/
-│   └── Customer Satisfaction.png
-│   └── Delivery & Payment Performance.png
 |   └── ERD.png
 |   └── Sales Performance Overview.png
+|   └── Operation & Payment.png
 |
 ├── notebooks/
 │   ├── 01-data-understanding.ipynb
@@ -105,10 +104,10 @@ The Power BI dashboard consists of three pages covering overall business perform
 - While the overall average rating was high at 4.09/5, certain product categories had considerably lower average ratings and may require further investigation.
 - Approximately 8.11% of delivered orders arrived later than the estimated delivery date, highlighting an opportunity to improve delivery reliability.
 - Credit cards dominated payment usage, while average payment values varied substantially across payment methods. 
-<img width="1330" height="750" alt="Sales Performance Overview" src="https://github.com/user-attachments/assets/778992fd-f31c-4822-824a-7ccbe37ad248" />
-<img width="1326" height="748" alt="Customer Satisfaction" src="https://github.com/user-attachments/assets/c04c2ae0-4421-4fc2-bd72-dcfd5941fc9f" />
-<img width="1322" height="739" alt="Delivery   Payment Performance" src="https://github.com/user-attachments/assets/421796a8-7f0c-444a-8e46-5638f8aff332" />
+<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/8f3a9c69-9d41-470d-8319-360e78e3266c" />
+<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/284ae041-6c29-4bbd-a1c1-0211e7cf05a6" />
 ---
+
 
 ## Tech Stack
 
