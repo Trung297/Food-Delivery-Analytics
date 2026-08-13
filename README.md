@@ -105,7 +105,7 @@ The Power BI dashboard consists of three pages covering overall business perform
 - Approximately 8.11% of delivered orders arrived later than the estimated delivery date, highlighting an opportunity to improve delivery reliability.
 - Credit cards dominated payment usage, while average payment values varied substantially across payment methods. 
 <img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/8f3a9c69-9d41-470d-8319-360e78e3266c" />
-<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/284ae041-6c29-4bbd-a1c1-0211e7cf05a6" />
+<img width="1332" height="750" alt="image" src="https://github.com/user-attachments/assets/075fd315-8797-4784-bfb9-5a542d126bea" />
 ---
 
 
